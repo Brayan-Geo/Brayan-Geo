@@ -1,8 +1,7 @@
-- 👋 Hi, I’m @Brayan-Geo
-- 👀 I’m interested in developing and programming 
-- 🌱 I’m currently learning python
-- 💞️ I’m looking to collaborate on 
-- 📫 How to reach me +254741235410
+ 👋 Hi, I’m @Brayan-Geo
+I’m interested in developing and programming I’m currently learning python
+
+How to reach me +254741235410
 
 <!---
 Brayan-Geo/Brayan-Geo is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
